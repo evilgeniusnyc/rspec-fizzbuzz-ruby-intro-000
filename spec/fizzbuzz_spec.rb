@@ -4,7 +4,6 @@ def fizzbuzz(number)
  
   binding.pry
 
-  
   require_relative './spec_helper.rb'
 
 require_relative '../fizzbuzz.rb'
