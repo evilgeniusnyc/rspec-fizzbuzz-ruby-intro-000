@@ -1,6 +1,4 @@
 require 'pry'
-
-def fizzbuzz(number)
  
   binding.pry
 
