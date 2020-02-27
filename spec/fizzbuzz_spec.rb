@@ -3,8 +3,7 @@ require 'pry'
 def fizzbuzz(number)
  
   binding.pry
-end
-  
+
   
   require_relative './spec_helper.rb'
 
