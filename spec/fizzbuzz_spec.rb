@@ -5,7 +5,6 @@ def fizzbuzz(number)
   binding.pry
 end
   
-end
   
   require_relative './spec_helper.rb'
 
