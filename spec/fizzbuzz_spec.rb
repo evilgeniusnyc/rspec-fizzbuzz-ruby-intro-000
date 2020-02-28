@@ -1,8 +1,5 @@
-require 'pry'
- 
- def fizzbuzz(number)
+def fizzbuzz(number)
    
-  binding.pry
 
   require_relative './spec_helper.rb'
 
